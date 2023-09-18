@@ -1,0 +1,66 @@
+#cleaning CSV then convert to JSON using Python
+
+import csv
+import json
+
+data = []
+cleanKeys = []
+
+def removeLongSpace(str):
+    if "  " in str:
+        str = str.replace("  ", " ")
+        removeLongSpace(str)
+    else:
+        return str
+
+with open('lamudi2.csv', encoding="utf8") as csv_file:
+    csv_reader = csv.reader(csv_file)
+    locations = []
+    prices = []
+    headers = []
+    keys = []
+    for row in csv_reader:
+        row[2] = removeLongSpace(row[2])
+        locations.append(row[2])
+        prices.append(row[0])
+        headers.append(row[4])
+        tempK = row[1].replace(" ", "").replace("\n","").split(",")
+        keys.append(tempK)
+
+for idx, x in enumerate(keys):
+    if idx != 0:
+        bool = False
+        k = []
+        for xx in x:
+            if bool == False:
+                bool = True
+            else:
+                bool = False
+                k.append(xx)
+        cleanKeys.append(k)
+    else:
+        cleanKeys.append(x)
+
+with open('lamudi2.csv', encoding="utf8") as csv_file:
+    csv_reader = csv.reader(csv_file)
+    values = []
+    for row in csv_reader:
+        tempValue = row[3].replace(" ", "").replace("\n","").split(",")
+        values.append(tempValue)
+
+for idx, x in enumerate(values):
+    if idx != 0:
+        obj = {
+            'title': headers[idx],
+            'price': prices[idx],
+            'location': locations[idx],
+            'data': {}
+        }
+        for idy, y in enumerate(x):
+            obj['data'][cleanKeys[idx][idy]] = y
+        data.append(obj)
+
+json_object = json.dumps(data, indent=4)
+
+with open("lamudi_cleaning_scrapy.json", "w") as outfile:
+    outfile.write(json_object)

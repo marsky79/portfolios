@@ -1,0 +1,41 @@
+Item Loader Cleaner: https://www.youtube.com/watch?v=b1YOeBSNGSQ
+
+Front
+
+Title:		response.css('h2.ListingCell-KeyInfo-title::text').get().replace('\n','').strip()
+Location:	response.css('span.ListingCell-KeyInfo-address-text::text').get().replace('\n','').strip()
+Price:		response.css('span.PriceSection-FirstPrice::text').get().replace('\n','').strip()
+Luas:		response.css('span.KeyInformation-value_v2.KeyInformation-amenities-icon_v2::text').get().strip()
+
+----------------------------------------
+loop itemselector
+
+response.css('div.last')
+rincian = response.css('div.last')
+rincian
+type(rincian)
+for rincian in rincians:
+    item['rincian'] = print(rincian.css('.last::text').get().replace('\n',''))
+
+
+
+----------------------------------------------------------------------------
+
+Back
+
+
+Title: 		response.css('h1.Title-pdp-title::text').get()
+Location: 	response.css('h3.Title-pdp-address::text').getall()	
+Price: 		response.css('div.Title-pdp-price span::text').get()
+Kamar tidur: 	response.css('div.last::text').getall()
+Kamar mandi:	response.css('div.last::text').getall()
+Bangunan:	response.css('div.last::text').getall()
+Lahan:		response.css('div.last::text').getall()
+
+
+
+https://www.lamudi.co.id/rumah-di-cipondoh-cluster-margoland-tangerang-kota-165871208735.html
+https://www.lamudi.co.id/rumah-murah-di-pamulang-166366292710.html
+
+----------------------------------------------------------------------
+
