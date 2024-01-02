@@ -1,0 +1,70 @@
+#Gaming:
+#english "https://www.youtube.com/results?search_query=gaming&sp=CAMSAhAC" done
+#japanese "https://www.youtube.com/results?search_query=%E3%82%B2%E3%83%BC%E3%83%A0&sp=CAMSAhAC" done
+#korean "https://www.youtube.com/results?search_query=%EA%B2%8C%EC%9E%84&sp=CAMSAhAC" done
+#chinese "https://www.youtube.com/results?search_query=%E6%B8%B8%E6%88%8F&sp=CAMSAhAC" done
+#russian "https://www.youtube.com/results?search_query=%D0%B8%D0%B3%D1%80%D1%8B&sp=CAMSAhAC" done
+#thailand "https://www.youtube.com/results?search_query=%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%81%E0%B8%A1&sp=CAMSAhAC" done
+#portuguese "https://www.youtube.com/results?search_query=jogos&sp=CAMSAhAC" done
+#spanish  juego de azar "https://www.youtube.com/results?search_query=+juego+de+azar&sp=CAMSAhAC" done
+#spanish Juegos "https://www.youtube.com/results?search_query=juegos&sp=CAMSAhAC" done
+#french  https://www.youtube.com/results?search_query=+jeu&sp=CAMSAhAC  done
+#vietnamese https://www.youtube.com/results?search_query=ch%C6%A1i+game&sp=CAMSAhAC  done
+#italian https://www.youtube.com/results?search_query=+gioco&sp=EgIQAg%253D%253D  done
+#turkish  https://www.youtube.com/results?search_query=oyun&sp=EgIQAg%253D%253D  done
+#hindi  https://www.youtube.com/results?search_query=%E0%A4%97%E0%A5%87%E0%A4%AE%E0%A4%BF%E0%A4%82%E0%A4%97&sp=CAMSAhAC  done
+
+#Music:
+#english  https://www.youtube.com/results?search_query=music&sp=CAMSAhAC  done
+#japanese  https://www.youtube.com/results?search_query=%22+%E9%9F%B3%E6%A5%BD%22&sp=EgIQAg%253D%253D done
+#korean  https://www.youtube.com/results?search_query=%EC%9D%8C%EC%95%85&sp=EgIQAg%253D%253D  done
+#chinese simple    https://www.youtube.com/results?search_query=%E9%9F%B3%E4%B9%90&sp=EgIQAg%253D%253D  done
+#chinese traditional  https://www.youtube.com/results?search_query=%E9%9F%B3%E6%A8%82&sp=EgIQAg%253D%253D  done
+#russian  https://www.youtube.com/results?search_query=%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0&sp=EgIQAg%253D%253D  done
+#thailand  https://www.youtube.com/results?search_query=+%E0%B8%94%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B5&sp=EgIQAg%253D%253D  done
+#portuguese & spanish  https://www.youtube.com/results?search_query=%22+m%C3%BAsica%22&sp=EgIQAg%253D%253D  done
+#french  https://www.youtube.com/results?search_query=%22musique%22&sp=EgIQAg%253D%253D  done
+#vietnamese  https://www.youtube.com/results?search_query=%22+%C3%A2m+nh%E1%BA%A1c%22&sp=EgIQAg%253D%253D  done
+#italian  https://www.youtube.com/results?search_query=musica+italiana&sp=EgIQAg%253D%253D  done
+#turkish  https://www.youtube.com/results?search_query=%22+m%C3%BCzik%22&sp=EgIQAg%253D%253D  done
+#hindi  https://www.youtube.com/results?search_query=%22%E0%A4%B8%E0%A4%82%E0%A4%97%E0%A5%80%E0%A4%A4%22&sp=EgIQAg%253D%253D  done
+#indonesia https://www.youtube.com/results?search_query=musik&sp=EgIQAg%253D%253D done
+#afrikaans https://www.youtube.com/results?search_query=Musiek&sp=EgIQAg%253D%253D done
+#dutch https://www.youtube.com/results?search_query=muziek&sp=EgIQAg%253D%253D done
+#cantonese https://www.youtube.com/results?search_query=%E9%9F%B3%E6%A8%82&sp=EgIQAg%253D%253D  done
+#persian https://www.youtube.com/results?search_query=%D9%85%D9%88%D8%B3%DB%8C%D9%82%DB%8C&sp=EgIQAg%253D%253D done
+#albanian https://www.youtube.com/results?search_query=Muzik%C3%AB&sp=EgIQAg%253D%253D done
+
+#sports:
+#english https://www.youtube.com/results?search_query=sports&sp=EgIQAg%253D%253D done
+#japanese https://www.youtube.com/results?search_query=%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84&sp=EgIQAg%253D%253D 
+#korean https://www.youtube.com/results?search_query=%EC%8A%A4%ED%8F%AC%EC%B8%A0&sp=EgIQAg%253D%253D done
+#simple_chinese https://www.youtube.com/results?search_query=%E4%BD%93%E8%82%B2&sp=EgIQAg%253D%253D done
+#tradition_chinese https://www.youtube.com/results?search_query=%E9%AB%94%E8%82%B2&sp=EgIQAg%253D%253D done
+#russian https://www.youtube.com/results?search_query=%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9&sp=EgIQAg%253D%253D done
+#thai https://www.youtube.com/results?search_query=%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2&sp=EgIQAg%253D%253D done
+#portuguese https://www.youtube.com/results?search_query=Esportes&sp=EgIQAg%253D%253D done
+#spanish https://www.youtube.com/results?search_query=Deportes&sp=EgIQAg%253D%253D done
+#french https://www.youtube.com/results?search_query=des+sports&sp=EgIQAg%253D%253D done
+#vietname https://www.youtube.com/results?search_query=+c%C3%A1c+m%C3%B4n+th%E1%BB%83+thao&sp=EgIQAg%253D%253D done
+#italian https://www.youtube.com/results?search_query=%22gli+sport%22&sp=EgIQAg%253D%253D done
+#turkish https://www.youtube.com/results?search_query=%22Spor%22&sp=EgIQAg%253D%253D done
+#hindi https://www.youtube.com/results?search_query=%E0%A4%96%E0%A5%87%E0%A4%B2-%E0%A4%95%E0%A5%82%E0%A4%A6&sp=EgIQAg%253D%253D done
+#indonesia https://www.youtube.com/results?search_query=olahraga&sp=EgIQAg%253D%253D done
+#cantonese https://www.youtube.com/results?search_query=%E9%AB%94%E8%82%B2&sp=EgIQAg%253D%253D done
+#persian https://www.youtube.com/results?search_query=%D9%88%D8%B1%D8%B2%D8%B4%DB%8C&sp=EgIQAg%253D%253D done
+
+Kids:
+#japanese https://www.youtube.com/results?search_query=%E5%AD%90%E4%BE%9B%E3%81%9F%E3%81%A1&sp=EgIQAg%253D%253D done
+#korean https://www.youtube.com/results?search_query=%EC%96%B4%EB%A6%B0%EC%9D%B4&sp=EgIQAg%253D%253D done
+#chinese (simple) https://www.youtube.com/results?search_query=%E5%AD%A9%E5%AD%90%E4%BB%AC&sp=EgIQAg%253D%253D done
+#russian https://www.youtube.com/results?search_query=%D0%94%D0%B5%D1%82%D0%B8&sp=EgIQAg%253D%253D done
+#thai https://www.youtube.com/results?search_query=%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81+%E0%B9%86&sp=EgIQAg%253D%253D done
+#portuguese https://www.youtube.com/results?search_query=crian%C3%A7as&sp=EgIQAg%253D%253D done
+#spanish https://www.youtube.com/results?search_query=Ni%C3%B1os&sp=EgIQAg%253D%253D done
+#french https://www.youtube.com/results?search_query=enfants&sp=EgIQAg%253D%253D done
+#italian https://www.youtube.com/results?search_query=capretti&sp=EgIQAg%253D%253D done
+#vietnamese https://www.youtube.com/results?search_query=tr%E1%BA%BB+em&sp=EgIQAg%253D%253D done
+#indonesian https://www.youtube.com/results?search_query=Anak-anak&sp=EgIQAg%253D%253D done
+#hindi https://www.youtube.com/results?search_query=%E0%A4%AC%E0%A4%9A%E0%A5%8D%E0%A4%9A%E0%A5%87&sp=EgIQAg%253D%253D done
+#persian https://www.youtube.com/results?search_query=%D8%A8%DA%86%D9%87+%D9%87%D8%A7&sp=EgIQAg%253D%253D progress
